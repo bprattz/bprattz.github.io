@@ -1,3 +1,5 @@
-Braden Pratt
+Welcome to my portfolio!
 
-About Me: 
+This is just a repository holding samples of the work I've completed at various companies.
+
+Please don't share the info viewed in this link.

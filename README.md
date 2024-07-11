@@ -1,4 +1,4 @@
-Welcome to my portfolio!
+Hi - Welcome to my portfolio!
 
 This is just a repository holding samples of the work I've completed at various companies.
 
